@@ -6,7 +6,7 @@ Very simple intro to Matlab
 * метод Крамера 
 * Reduced Row Echelon Form
 <p align="left">
-  <img src="./img/git1.png" alt="Size Limit CLI" width="400">
+  <img src="./img/git1.png" alt="Size Limit CLI" width="464" height="103">
 </p>
 
 ## Task 2
@@ -14,15 +14,23 @@ Very simple intro to Matlab
 * График функции
 * FZERO
 <p align="left">
-  <img src="./img/git2.png" alt="Size Limit CLI" width="200">
+  <img src="./img/git2.png" alt="Size Limit CLI" width="178" height="46">
 </p>
 
-## Task 3
+## Task 3.1
 * Сформировать матрицу A(n×m);
 * Обработать матрицу А по заданному правилу;
 * Преобразовать матрицу А  по заданному правилу;
 * Из матрицы  А получить компоненты вектора  X по заданному правилу;
 * Отсортировать вектор по заданному правилу.
 <p align="left">
-  <img src="./img/git3.png" alt="Size Limit CLI" width="986">
+  <img src="./img/git3.png" alt="Size Limit CLI" width="986" height="54">
 </p>
+
+## Task 3.2
+* Задать матрицы А, В, С:
+  - элементы матрицы A - произвольные числа;
+  - элементы матриц B,C - случайные числа;
+
+* Произвести операции над матрицами в соответствии с заданием 
+
