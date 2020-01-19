@@ -16,6 +16,7 @@ Very simple intro to Matlab
 <p align="left">
   <img src="./img/git2.png" alt="Size Limit CLI" width="200">
 </p>
+
 ## Task 3
 * Сформировать матрицу A(n×m);
 * Обработать матрицу А по заданному правилу;
