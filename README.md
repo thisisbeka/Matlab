@@ -14,7 +14,7 @@ Very simple intro to Matlab
 * График функции
 * FZERO
 <p align="left">
-  <img src="./img/git2.png" alt="Size Limit CLI" width="178" height="46">
+  <img src="./img/git2.png" alt="Size Limit CLI" width="178" height="81">
 </p>
 
 ## Task 3.1
