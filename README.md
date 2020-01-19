@@ -33,4 +33,13 @@ Very simple intro to Matlab
   - элементы матриц B,C - случайные числа;
 
 * Произвести операции над матрицами в соответствии с заданием 
+<p align="left">
+  <img src="./img/git4.png" alt="Size Limit CLI" width="553" height="73">
+</p>
+
+## Task 4
+Создать таблицу и  график значений кусочной функции на интервале от x_min до x_max с шагом 0.25
+<p align="left">
+  <img src="./img/git5.png" alt="Size Limit CLI" width="538" height="107">
+</p>
 
