@@ -16,3 +16,12 @@ Very simple intro to Matlab
 <p align="left">
   <img src="./img/git2.png" alt="Size Limit CLI" width="200">
 </p>
+## Task 3
+* Сформировать матрицу A(n×m);
+* Обработать матрицу А по заданному правилу;
+* Преобразовать матрицу А  по заданному правилу;
+* Из матрицы  А получить компоненты вектора  X по заданному правилу;
+* Отсортировать вектор по заданному правилу.
+<p align="left">
+  <img src="./img/git3.png" alt="Size Limit CLI" width="986">
+</p>
