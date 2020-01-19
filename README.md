@@ -6,7 +6,7 @@ Very simple intro to Matlab
 * метод Крамера 
 * Reduced Row Echelon Form
 <p align="left">
-  <img src="./img/git1.png" alt="Size Limit CLI" width="300">
+  <img src="./img/git1.png" alt="Size Limit CLI" width="400">
 </p>
 
 ## Task 2
@@ -14,5 +14,5 @@ Very simple intro to Matlab
 * График функции
 * FZERO
 <p align="left">
-  <img src="./img/git2.png" alt="Size Limit CLI" width="300">
+  <img src="./img/git2.png" alt="Size Limit CLI" width="200">
 </p>
