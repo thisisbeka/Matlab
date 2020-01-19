@@ -14,7 +14,7 @@ Very simple intro to Matlab
 * График функции
 * FZERO
 <p align="left">
-  <img src="./img/git2.png" alt="Size Limit CLI" width="178" height="81">
+  <img src="./img/git2.png" alt="Size Limit CLI" width="178" height="46">
 </p>
 
 ## Task 3.1
@@ -24,7 +24,7 @@ Very simple intro to Matlab
 * Из матрицы  А получить компоненты вектора  X по заданному правилу;
 * Отсортировать вектор по заданному правилу.
 <p align="left">
-  <img src="./img/git3.png" alt="Size Limit CLI" width="986" height="54">
+  <img src="./img/git3.png" alt="Size Limit CLI" width="986" height="81">
 </p>
 
 ## Task 3.2
